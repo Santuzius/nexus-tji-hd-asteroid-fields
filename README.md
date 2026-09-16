@@ -2,7 +2,7 @@
 
 A texture mod for *Nexus: The Jupiter Incident*.
 
-Replaces the seven asteroid field backdrops: the distant belts drawn behind every asteroid-field mission, in three layers at different depths. They are repainted to match the rock of [HD Asteroids](https://github.com/Santuzius/nexus-tji-hd-asteroids), so the belts in the distance and the asteroids you fly past are the same material. Best used together with it.
+Replaces the seven background asteroid fields: the distant belts drawn behind every asteroid-field mission, in three layers at different depths. They are repainted to match the rock color of [HD Asteroids](https://steamcommunity.com/sharedfiles/filedetails/?id=3801582318), so the belts in the distance and the asteroids you fly past are the same material. Best used together with it.
 
 The source images were generated with Nano Banana.
 
