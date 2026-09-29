@@ -8,8 +8,6 @@ The source images were generated with Nano Banana.
 
 ![preview](preview.jpg)
 
-Original on the left, replacement on the right.
-
 ## Steam Workshop
 [https://steamcommunity.com/sharedfiles/filedetails/?id=3802704750](https://steamcommunity.com/sharedfiles/filedetails/?id=3802704750)
 
